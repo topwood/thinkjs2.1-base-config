@@ -1,0 +1,16 @@
+{
+  "apps": [{
+    "name": "thinkjs2.1-base-config",
+    "script": "www/production.js",
+    "cwd": "/home/topwood/Documents/project/test-thinkjs//home/topwood/Documents/project/test-thinkjs/thinkjs2.1-base-config",
+    "exec_mode": "cluster",
+    "instances": 0,
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
